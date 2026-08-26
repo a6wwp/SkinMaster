@@ -8,7 +8,10 @@ made by xGG9
 fast skinpacks importer
 fast skinpacks encryptor 
 fast skinpacks deleter
-[SkinMaster.zip](https://github.com/user-attachments/files/26669450/SkinMaster.zip)
+[SkinMaster v1.2.zip](https://github.com/user-attachments/files/31479879/SkinMaster.v1.2.zip) - GDK update - 1.26.40+ MCPE version
+
+
+
 
 
 
