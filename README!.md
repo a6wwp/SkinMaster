@@ -18,5 +18,5 @@ fast skinpacks deleter
 
 
 you can also reach us through our Discord and official website 
-website - [RX SkinMaster Site]([https://rx.xgg.workers.dev/](https://skinmaster.a6wwpp.workers.dev/))
+website - [RX SkinMaster Site]([https://rx.xgg.workers.dev/](https://skinmaster.a6wwpp.workers.dev/)
 discord - [RX Discord Site](https://discord.com/invite/BJcZfd5DW2)
