@@ -1,10 +1,10 @@
 SkinMaster is a tool designed for managing and using Minecraft Bedrock Skin Packs, particularly packs containing skins with custom 4D/5D geometries.
 originally created in Java, and was later rewritten in Go and Rust.
-You can use the code however you want CYA
+CYA
 
 
 # SkinMaster
-made by xGG9
+made by xGG9 & a6wwp
 fast skinpacks importer
 fast skinpacks encryptor 
 fast skinpacks deleter
